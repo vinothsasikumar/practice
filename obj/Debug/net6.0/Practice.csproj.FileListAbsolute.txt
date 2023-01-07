@@ -1,0 +1,15 @@
+/Users/vino/Documents/Workspace/Projects/Practice/bin/Debug/net6.0/Practice
+/Users/vino/Documents/Workspace/Projects/Practice/bin/Debug/net6.0/Practice.deps.json
+/Users/vino/Documents/Workspace/Projects/Practice/bin/Debug/net6.0/Practice.runtimeconfig.json
+/Users/vino/Documents/Workspace/Projects/Practice/bin/Debug/net6.0/Practice.dll
+/Users/vino/Documents/Workspace/Projects/Practice/bin/Debug/net6.0/Practice.pdb
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.csproj.AssemblyReference.cache
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.AssemblyInfoInputs.cache
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.AssemblyInfo.cs
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.csproj.CoreCompileInputs.cache
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.dll
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/refint/Practice.dll
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.pdb
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/Practice.genruntimeconfig.cache
+/Users/vino/Documents/Workspace/Projects/Practice/obj/Debug/net6.0/ref/Practice.dll
